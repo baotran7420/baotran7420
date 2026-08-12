@@ -10,9 +10,10 @@ I'm an Information Technology student passionate about building modern web inter
 
 ## Reach me at ✍️
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baotran7420)
 
----
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baotran7420)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%E1%BA%A3o-tr%E1%BA%A7n-a25a35225/)
+[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bao.tran.642804/)
 
 ## Technology Stack 🛠️
 
